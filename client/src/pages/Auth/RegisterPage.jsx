@@ -103,6 +103,7 @@ const RegisterPage = () => {
           <div className="inputBx">
             <span></span>
             <input
+              className="answer-input"
               onChange={(e) => setAnswer(e.target.value)}
               value={answer}
               type="text"

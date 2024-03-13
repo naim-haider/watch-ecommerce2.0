@@ -183,3 +183,7 @@ form h1 {
 .loginForgot {
   padding-left: 150px;
 }
+
+.answer-input {
+  color: white;
+}
